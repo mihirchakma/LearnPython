@@ -1,1 +1,1 @@
-# Learn Python for beginners
+# Learn Python 3 from beginning
