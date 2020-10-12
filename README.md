@@ -11,6 +11,7 @@ print("Hello, World!")
 * <a href="url">Input and Output</a>
 * <a href="url">Comments</a>
 * <a href="url">Operators</a>
-* <a href="url">if-else condition</a>
-
+* <a href="url">If-else condition</a>
+* <a href="url">Loops</a>
+* <a href="url">Functions</a>
 
